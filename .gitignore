@@ -1,0 +1,11 @@
+# dados/relatório em texto puro — NUNCA versionar (o site é cifrado)
+rove_stores.json
+rove_stores.csv
+rove_report.html
+report_plain.html
+data_compact.json
+enc*.json
+gate_template.html
+index_gated.html
+_*.js
+.claude/
